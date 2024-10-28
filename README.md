@@ -1,4 +1,6 @@
 ## Hi there 👋
+i'm avis, any pronouns are fine, and im just goobin' around bro
+might contribute to stuff or open issues every once in a while, idk
 
 <!--
 **uncreative-avis/uncreative-avis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
