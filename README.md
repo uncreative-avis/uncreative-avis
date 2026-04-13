@@ -1,5 +1,5 @@
 ## Hi there 👋
-i'm avis, they/them (more in my pronouns page - check my neocities) and im a beginner godot gamedev
+i'm avis/lucid, they/them (more in my pronouns page - check my neocities) and im a beginner godot gamedev —
 im currently learning GDScript
 
 <!--
