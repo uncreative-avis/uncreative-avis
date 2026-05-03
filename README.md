@@ -1,6 +1,9 @@
-## Hi there 👋
-i'm avis/lucid, they/them (more in my pronouns page - check my neocities) and im a beginner godot gamedev —
-im currently learning GDScript
+# welcome to my corner of the internet
+hi, i'm avis (they/them) and im a beginner godot gamedev —
+im currently learning GDScript and C#. i have a good amount of experience in clickteam too but i'm currently not using it actively.
+
+## stuff i'm working on
+* [**Treasure Island: Classic Remix**](https://gamejolt.com/games/TICR/1003804): A FNATI fangame made in Godot, based on FNATI's 2.0 era of development.
 
 <!--
 **uncreative-avis/uncreative-avis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
