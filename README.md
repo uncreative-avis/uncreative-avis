@@ -1,10 +1,13 @@
 # welcome to my corner of the internet
-hi, i'm avis (they/them) and im a beginner godot gamedev —
-im currently learning GDScript and C#. i have a good amount of experience in clickteam too but i'm currently not using it actively.
-im also slowly getting into web development!
+hi, i'm avis (they/them) and im a beginner godot gamedev --
+im currently learning:
+* Godot 4
+* Web development (HTML, CSS, JS)
+
+i have a good amount of experience in clickteam too but i'm currently not using it actively.
 
 ## stuff i'm working on
-you can see a list of stuff im working on here: [link to my neocities site; portfolio page](https://uncreative-avis.neocities.org/portfolio)
+you can see a list of stuff im working on -- as well as my availability for projects -- here: [link to my neocities site; portfolio page](https://uncreative-avis.neocities.org/portfolio)
 
 <!--
 **uncreative-avis/uncreative-avis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
