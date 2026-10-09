@@ -7,7 +7,7 @@ im currently learning:
 i have a good amount of experience in clickteam too but i'm currently not using it actively.
 
 ## stuff i'm working on
-you can see a list of stuff im working on -- as well as my availability for projects -- here: [link to my neocities site; portfolio page](https://uncreative-avis.neocities.org/portfolio)
+you can see a list of stuff im working on -- as well as my availability for projects -- here: [link to my site; portfolio page](https://uncreative-avis.github.io/portfolio)
 
 <!--
 **uncreative-avis/uncreative-avis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
